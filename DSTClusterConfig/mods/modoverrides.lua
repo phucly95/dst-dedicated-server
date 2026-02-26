@@ -24,5 +24,8 @@ return {
   --#hole mark
   ["workshop-362175979"] = { enabled = true },
   --#Tips
-  ["workshop-1898292532"] = { enabled = true }
+  ["workshop-1898292532"] = { enabled = true },
+
+  ["workshop-375850593"] = { enabled = true },
+  ["workshop-362175979"] = { enabled = true }
 }
